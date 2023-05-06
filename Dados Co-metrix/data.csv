@@ -1,0 +1,47 @@
+﻿,Group,Metric,Value
+1,Coesão Referencial,adj_arg_ovl,0.57895
+2,Coesão Referencial,adj_cw_ovl,0.31579
+3,Coesão Referencial,adj_stem_ovl,0.36842
+4,Coesão Referencial,adjacent_refs,0.0
+5,Coesão Referencial,anaphoric_refs,0.0
+6,Coesão Referencial,arg_ovl,0.36842
+7,Coesão Referencial,stem_ovl,0.39474
+8,Complexidade Sintática,words_before_main_verb,7.4
+9,Conectivos,add_neg_conn_ratio,0.00868
+10,Conectivos,add_pos_conn_ratio,0.04989
+11,Conectivos,and_ratio,0.03471
+12,Conectivos,cau_neg_conn_ratio,0.00434
+13,Conectivos,cau_pos_conn_ratio,0.06508
+14,Conectivos,conn_ratio,0.13232
+15,Conectivos,if_ratio,0.00217
+16,Conectivos,log_neg_conn_ratio,0.01302
+17,Conectivos,log_pos_conn_ratio,0.0564
+18,Conectivos,logic_operators,0.05857
+19,Conectivos,negation_ratio,0.01518
+20,Conectivos,or_ratio,0.00434
+21,Densidade de Padrões Sintáticos,mean_noun_phrase,4.82472
+22,Diversidade Lexical,ttr,0.78182
+23,Frequência de Palavras,cw_freq,304068.24715
+24,Frequência de Palavras,min_cw_freq,1426.65
+25,Informações Morfossintáticas de Palavras,adjective_ratio,0.09111
+26,Informações Morfossintáticas de Palavras,adverbs,0.06725
+27,Informações Morfossintáticas de Palavras,content_words,0.5705
+28,Informações Morfossintáticas de Palavras,function_words,0.4295
+29,Informações Morfossintáticas de Palavras,noun_ratio,0.25813
+30,Informações Morfossintáticas de Palavras,personal_pronouns,0.0
+31,Informações Morfossintáticas de Palavras,pronoun_ratio,0.08026
+32,Informações Morfossintáticas de Palavras,verbs,0.15401
+33,Informações Semânticas de Palavras,adjectives_ambiguity,4.14286
+34,Informações Semânticas de Palavras,adverbs_ambiguity,1.8
+35,Informações Semânticas de Palavras,hypernyms_verbs,0.93846
+36,Informações Semânticas de Palavras,nouns_ambiguity,3.55172
+37,Informações Semânticas de Palavras,verbs_ambiguity,6.56667
+38,Léxico Temporal,tmp_neg_conn_ratio,0.0
+39,Léxico Temporal,tmp_pos_conn_ratio,0.01518
+40,Medidas Descritivas,paragraphs,6
+41,Medidas Descritivas,sentences,20
+42,Medidas Descritivas,sentences_per_paragraph,3.33333
+43,Medidas Descritivas,syllables_per_content_word,2.96198
+44,Medidas Descritivas,words,461
+45,Medidas Descritivas,words_per_sentence,23.05
+46,Índices de Leiturabilidade,flesch,35.50216
